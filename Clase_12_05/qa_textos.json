@@ -1,0 +1,42 @@
+[
+    {
+      "user_input": "¿Qué son las ciudades 20 minutos?",
+      "reference": "Las ciudades 20 minutos son un concepto urbanístico que busca que todos los servicios esenciales y las necesidades diarias de una persona estén disponibles a una distancia de 20 minutos a pie o en bicicleta desde su hogar, incluyendo trabajo, compras, educación, atención médica, ocio y espacios verdes."
+    },
+    {
+      "user_input": "¿Qué ciudades están implementando el concepto de ciudades 20 minutos?",
+      "reference": "Ciudades como París, Melbourne y Portland están implementando el concepto de ciudades 20 minutos en su planificación urbana."
+    },
+    {
+      "user_input": "Según el INE, ¿qué porcentaje de hogares en ciudades españolas grandes tienen servicios esenciales cerca?",
+      "reference": "Según un estudio reciente del Instituto Nacional de Estadística (INE), el 90% de los hogares en ciudades de más de 50.000 habitantes tienen servicios esenciales cerca, incluyendo colegios, farmacias, centros de salud, hospitales, supermercados, bares y restaurantes."
+    },
+    {
+      "user_input": "¿Cuál es uno de los principales desafíos del concepto de ciudades 20 minutos en España?",
+      "reference": "A pesar de los avances, persiste un reto importante: la proximidad al trabajo. Muchos ciudadanos aún no pueden acceder a sus centros laborales dentro del marco de los 20 minutos."
+    },
+    {
+      "user_input": "¿Qué críticas políticas ha recibido el concepto de ciudades 20 minutos?",
+      "reference": "El concepto ha generado debate político, con algunos sectores criticando la idea como un intento de 'encerrar' a las personas en su entorno más próximo."
+    },
+    {
+      "user_input": "¿Cuáles son los tres tipos principales de Inteligencia Artificial mencionados en el texto?",
+      "reference": "Los tres tipos principales mencionados son: IA Estrecha (Weak AI), IA General (Strong AI) e IA Superinteligente."
+    },
+    {
+      "user_input": "¿Qué es la IA Estrecha o Weak AI?",
+      "reference": "La IA Estrecha está diseñada para realizar tareas específicas. Ejemplos incluyen Siri, Alexa y sistemas de recomendación."
+    },
+    {
+      "user_input": "Menciona tres aplicaciones actuales de la IA según el texto.",
+      "reference": "Según el texto, algunas aplicaciones actuales de la IA incluyen: diagnóstico médico automatizado, conducción autónoma, traducción en tiempo real, predicción de patrones económicos y sistemas de seguridad inteligentes."
+    },
+    {
+      "user_input": "¿Qué implica el principio de equidad en la IA responsable?",
+      "reference": "El principio de equidad asegura que los sistemas de IA traten a todas las personas de manera justa, evita perpetuar o amplificar sesgos y discriminación, implica evaluar y mitigar sesgos en datos, algoritmos y decisiones, y requiere considerar impactos en diversos grupos demográficos y contextos culturales."
+    },
+    {
+      "user_input": "¿Qué aspectos abarca el principio de transparencia en la IA?",
+      "reference": "El principio de transparencia implica explicar cómo funcionan los sistemas de IA de manera comprensible, proporcionar información sobre las capacidades y limitaciones de la IA, permitir a los usuarios entender cómo se toman las decisiones, y fomentar la confianza a través de la apertura y la claridad."
+    }
+  ]

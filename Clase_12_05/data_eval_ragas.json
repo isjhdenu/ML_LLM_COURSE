@@ -1,0 +1,32 @@
+[
+  {
+    "user_input": "¿Cuáles son los principales beneficios de la inteligencia artificial?",
+    "response": "Los principales beneficios de la IA incluyen la automatización de tareas repetitivas, mejora en la toma de decisiones y análisis de grandes volúmenes de datos.",
+    "retrieved_contexts": [
+      "La inteligencia artificial (IA) ofrece numerosos beneficios, como la automatización de tareas repetitivas, lo que permite a las personas centrarse en trabajos más creativos y estratégicos.",
+      "La IA mejora la toma de decisiones al analizar grandes cantidades de datos y encontrar patrones que los humanos podrían pasar por alto.",
+      "Los sistemas de IA pueden procesar y analizar grandes volúmenes de datos más rápido que los humanos, lo que lleva a insights más profundos."
+    ],
+    "reference": "Los principales beneficios de la inteligencia artificial incluyen la automatización de tareas repetitivas, mejora en la toma de decisiones mediante análisis de datos y procesamiento de grandes volúmenes de información."
+  },
+  {
+    "user_input": "¿Qué es la computación cuántica?",
+    "response": "La computación cuántica es un paradigma que utiliza las propiedades de la mecánica cuántica para realizar cálculos que serían inviables en computadoras clásicas.",
+    "retrieved_contexts": [
+      "La computación cuántica es un paradigma de computación que utiliza las propiedades de la mecánica cuántica, como la superposición y el entrelazamiento.",
+      "A diferencia de las computadoras clásicas que usan bits (0 o 1), las computadoras cuánticas utilizan qubits que pueden existir en múltiples estados simultáneamente.",
+      "Esta capacidad permite que las computadoras cuánticas resuelvan ciertos problemas mucho más rápido que las computadoras clásicas."
+    ],
+    "reference": "La computación cuántica es un paradigma computacional basado en los principios de la mecánica cuántica que utiliza qubits en lugar de bits convencionales, permitiendo resolver ciertos problemas de manera más eficiente que las computadoras clásicas."
+  },
+  {
+    "user_input": "¿Cómo funciona el aprendizaje profundo?",
+    "response": "El aprendizaje profundo utiliza redes neuronales con múltiples capas para aprender representaciones jerárquicas de los datos.",
+    "retrieved_contexts": [
+      "El aprendizaje profundo es una rama del aprendizaje automático que utiliza redes neuronales con múltiples capas (de ahí el término profundo).",
+      "Estas redes aprenden representaciones jerárquicas de los datos, donde cada capa aprende características cada vez más abstractas.",
+      "Por ejemplo, en reconocimiento de imágenes, las primeras capas pueden detectar bordes y formas simples, mientras que las capas más profundas reconocen objetos completos."
+    ],
+    "reference": "El aprendizaje profundo funciona utilizando redes neuronales con múltiples capas que aprenden representaciones jerárquicas de los datos, donde cada capa extrae características cada vez más abstractas."
+  }
+]
